@@ -1,5 +1,5 @@
 Пример telegram-бота интегрированного с Directum RX.
-В примере показано, как зарегистрировать пользователя telegram в Directum.
+В примере показано, как зарегистрировать пользователя telegram в Directum, как добавить кнопку и ее обработчик, как подгрузить документ из Directum.
 
 1. Установите python. [Ссылка](https://www.python.org/downloads)
 2. Установить необходимые библиотеки\
@@ -19,5 +19,8 @@
 
 Функция интеграции для получения наших организаций, в которых состоит пользователь
 ![image](https://github.com/parfenovsergei/DirectumBotExample/assets/72494514/9b63c5c5-90db-45e2-b474-1c7021fbc51a)
+
+Функция интеграции для получения бинарника документа
+![image](https://github.com/parfenovsergei/DirectumBotExample/assets/72494514/96554c4d-5b5f-4a1f-9d5e-b9c61bcb0c7e)
 
 
